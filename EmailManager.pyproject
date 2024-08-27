@@ -1,0 +1,15 @@
+{
+    "files": [
+        "CustomCumponent/Popupmasseage.qml",
+        "CustomCumponent/TextHolders.qml",
+        "CustomCumponent/retriveDataBase.qml",
+        "DataBase.py",
+        "Logo/CSV.png",
+        "Logo/emailManager.png",
+        "main.py",
+        "main.qml",
+        "popuplogos/csvSaved.png",
+        "popuplogos/datasaved.png",
+        "popuplogos/errormessage.png"
+    ]
+}
